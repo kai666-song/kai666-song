@@ -47,15 +47,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kai666-song&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai666-song&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://stats.justsong.cn/api?username=kai666-song&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://stats.justsong.cn/api/top-langs/?username=kai666-song&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kai666-song&theme=flat&no-frame=true&margin-w=15" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kai666-song&theme=light&hide_border=true" alt="streak stats"/>
