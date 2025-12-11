@@ -44,15 +44,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔭 About Me
 
-<div align="center">
-  <img src="https://stats.justsong.cn/api?username=kai666-song&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://stats.justsong.cn/api/top-langs/?username=kai666-song&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kai666-song&theme=light&hide_border=true" alt="streak stats"/>
-</div>
+- 🎓 **Background:** Junior Student in Electronic & Information Engineering. Passionate about **AI Engineering & Optimization**.
+- 🌱 **Learning:** Deep diving into **Model Quantization (Int8/FP16)** & **SIMD Optimization**.
+- 💼 **Goal:** Seeking Internship in **AI Deployment / Embedded AI** (Available for 6 months+).
+- 💬 **Motto:** "Make AI run faster and lighter."
