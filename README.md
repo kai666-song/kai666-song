@@ -55,3 +55,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kai666-song&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="150" alt="Kai's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai666-song&layout=compact&theme=minimal&hide_border=true" height="150" alt="Top Languages" />
 </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kai666-song&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
